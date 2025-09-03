@@ -8,4 +8,3 @@ This is a test for learning git.
  -loops
 -data
 -funktioner
--exceptions
