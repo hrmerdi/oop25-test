@@ -9,3 +9,4 @@ This is a test for learning git.
 -data
 -funktioner
 -exceptions for you
+-polynomials
